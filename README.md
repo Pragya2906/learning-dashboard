@@ -1,8 +1,8 @@
-# LearnOS — Student Dashboard
+# Student Dashboard
 
 A futuristic student learning dashboard built as part of a Frontend Intern Challenge.
 
-**Live Demo:** [your-vercel-url-here]
+**Live Demo:** [(https://learning-dashboard-liart-nine.vercel.app/)]
 
 ---
 
